@@ -9,6 +9,7 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     
 }
  
@@ -21,9 +22,20 @@ body{
     gap: 1rem;
     width: fit-content;    
 }
-img{
+.image{
+    background: url('./images/image-header-mobile.jpg') ;
     width: 350px;
     border-radius: 10px 10px 0px 0px;
+    height: 250px;
+    background-size: contain;
+    background-color: white;
+    
+}
+.img1{
+    background-color: hsl(277, 97%, 24%);
+    width: 100%;
+    height: 100%;
+    opacity: 60%;
 }
 .text{
     width: 350px;
