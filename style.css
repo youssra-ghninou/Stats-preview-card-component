@@ -27,9 +27,7 @@ body{
     width: 350px;
     border-radius: 10px 10px 0px 0px;
     height: 250px;
-    background-size: contain;
-    background-color: white;
-    
+    background-size: contain;    
 }
 .img1{
     background-color: hsl(277, 97%, 24%);
@@ -53,7 +51,7 @@ span{
     color: hsl(277, 64%, 61%);
 }
 .text2{
-    font-size: 13px;
+    font-size: 11px;
     font-family: 'Lexend Deca', sans-serif;
     font-weight: 400;
     color: hsla(0, 0%, 100%, 0.6);
@@ -78,6 +76,41 @@ span{
     color: hsla(0, 0%, 100%, 0.6);
 }
 
+@media only screen and (min-width: 1024px) {
+        body{
+            text-align: left;
+        }
+        .main {
+          flex-direction:row-reverse;
+          
+        }
+        .image{
+            background: url('./images/image-header-desktop.jpg');
+            border-radius: 0px 10px 10px 0px;
+            width: 350px;
+            height: 260px;
+            background-size: contain;
+            background-repeat: no-repeat;   
+        }
+        .img1{
+            border-radius: 0px 10px 10px 0px;
+        }
+        .text{
+            padding: 5% ;
+        }
+        .pg3{
+            flex-direction: row;
+            gap: 4rem;
+        }
+        .number{
+            font-size: 18px;
+            
+        }
+        .stats{
+            font-size: 8px;
+        }
+        
+      }
 
 
 
