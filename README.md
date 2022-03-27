@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/youssra-ghninou/Stats-preview-card-component]
-- Live Site URL: [https://youssra-ghninou.github.io/Stats-preview-card-component/]
+- Solution URL: [@youssra-ghninou](https://github.com/youssra-ghninou/stats-preview-card-component)
+- Live Site URL: [demo](https://youssra-ghninou.github.io/Stats-preview-card-component/)
 
 ## My process
 
