@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@youssra-ghninou](https://github.com/youssra-ghninou/stats-preview-card-component)
+- Solution URL: [Github](https://github.com/youssra-ghninou/stats-preview-card-component)
 - Live Site URL: [demo](https://youssra-ghninou.github.io/Stats-preview-card-component/)
 
 ## My process
